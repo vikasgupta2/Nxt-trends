@@ -11,9 +11,7 @@ Call and implementing filters by sending them as query parameters to product api
 to authorize the user.</li>
 <h3>Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token,
 Authorization, Authentication</h3>
-
-Visit: https://nxt-trendz.vikasgupta.tech/
-
+<br/>
 <h4>login credential:</h4>
 For prime user:
 username: rahul,
@@ -23,7 +21,8 @@ Non prime user:
 username: raja,
 password: raja@2021
 
-
+## Visit: https://nxt-trendz.vikasgupta.tech
+<br/>
 
 ### Demo:
 
